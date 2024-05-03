@@ -1,0 +1,3 @@
+/home/diptendu/Documents/MyApp/build/CMakeFiles/GLOApp.dir
+/home/diptendu/Documents/MyApp/build/CMakeFiles/edit_cache.dir
+/home/diptendu/Documents/MyApp/build/CMakeFiles/rebuild_cache.dir

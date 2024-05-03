@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread CMakeFiles/GLOApp.dir/main.cpp.o CMakeFiles/GLOApp.dir/ImageSlideshow.cpp.o CMakeFiles/GLOApp.dir/VideoPlayer.cpp.o -o GLOApp  -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk3u_core-3.0 -lwx_baseu-3.0 -lwx_gtk3u_media-3.0 
